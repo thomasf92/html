@@ -1,0 +1,51 @@
+<html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+<link rel="stylesheet" href="style.css">
+<title>Thomas web</title>
+</center>
+</head>
+<body>
+<center>
+<div class="div1"
+<link rel="stylesheet" href="style.css">
+<img src="img.jpg" id="myimg" width="200"/>
+<h2>Thomas Fridman</h2>
+<h3>QA tudent</h3>
+<hr>
+</div>
+
+<p id="bio">Hello everyone<br> I'm Thomas Fridman I'm 29 years old and I live in Be'er Sheva.<br>
+As one who really loves to travel the world<br> I have chosen to present to you here the five most beautiful places I have visited.</p>
+
+<p id="contact">Contact me here</p>
+
+<a href="https://www.facebook.com/enanitofridman" class="fa fa-facebook" target="blank"></a>
+<a href="https://mail.google.com/mail/?view=cm&source=mailto&to=thommyfri@gmail.com" class="fa fa-google" target="blank"></a>
+<a href="https://www.linkedin.com/in/thomas-fridman-44a58a21b" class="fa fa-linkedin" target="blank"></a>
+
+</body>
+<div class="container">
+  <div class="box">
+    <img src="arg.jpg">
+    <span>Argentina</span>
+  </div>
+  <div class="box">
+    <img src="cuba.jpg">
+    <span>Cuba</span>
+  </div>
+  <div class="box">
+    <img src="thai.jpg">
+    <span>Thailand</span>
+  </div>
+  <div class="box">
+    <img src="mex.jpg">
+    <span>Mexico</span>
+	</div>
+	<div class="box">
+    <img src="phili.jpg">
+    <span>Philippines</span>
+  </div>
+</div>
+</html>
