@@ -30,6 +30,14 @@
     top: -12px;
 }
 
+.birds {
+    position: absolute;
+    top: -2%;
+    left: 7%;
+	width: 170px;
+    height: auto;
+}
+
 .fa {
   padding: 20px;
   font-size: 30px;
